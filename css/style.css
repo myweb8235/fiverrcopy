@@ -1,0 +1,129 @@
+body{
+    margin:0;
+}
+.fullbody{
+    width: 1200px;
+    margin: auto;
+    
+}
+.heading{width: 100%;}
+.logo{
+    display: inline-block;
+    width: 20%;
+    float: left;
+}
+ul {
+
+float: right;
+
+list-style: none;
+}
+ul li{
+
+float: left;
+
+padding: 20px;
+}
+ul li a{
+
+text-decoration: none;
+
+text-transform: uppercase;
+}
+ul li a:hover{
+    
+}
+.lh{
+
+float: left;
+
+width: 100%;
+}
+.lh h1{
+
+margin-bottom: 18px;
+
+text-align: center;
+
+font-size: 4em;
+}
+.lh p{
+    
+margin: 0;
+    
+text-align: center;
+    
+font-size: 28px;
+}
+.item{
+    float: left;
+    width: 100%;
+}
+.i1{
+
+width: 33.33%;
+
+float: left;
+
+padding: 53px;
+
+box-sizing: border-box;
+
+margin-top: 23px;
+}
+.i1 h1{
+    margin: 0;
+    font-size: 28px;
+}
+.i1 p{
+    margin: 0;
+    font-size: 17px;
+}
+.creative{
+
+float: left;
+
+width: 100%;
+}
+.creative h2{
+    
+margin: 0;
+    
+font-size: 35px;
+}
+.person{
+
+float: left;
+
+width: 100%;
+
+margin-top: 20px;
+}
+.pi{
+
+float: left;
+
+width: 33.33%;
+
+box-sizing: border-box;
+
+padding: 20px;
+}
+.pi img{
+
+max-width: 100%;
+}
+.pi a{
+    
+text-decoration: none;
+    
+color: black;
+    
+font-size: 19px;
+}
+.pi h2{
+
+}
+.pi p{
+    
+}
